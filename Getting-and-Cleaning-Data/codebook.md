@@ -51,7 +51,7 @@ Note: features are normalized and bounded within [-1,1].
 * mean: Mean value
 * StdDev: Standard deviation
 
-###Abbreviations of measurements
+### Abbreviations of measurements
 
 * Leading t or f is based on time or frequency measurements
 * Body - related to body movement

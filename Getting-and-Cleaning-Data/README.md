@@ -1,5 +1,3 @@
-README
-
 Getting and Cleaning Data Course Project
 
 The following steps need to be done before running the script

@@ -23,4 +23,4 @@ Labeled the data set with more descriptive variable names
 Used melt and dcast from the reshape2 library to calculate the average of each variable for each activity and each subject.
 
 The resultant tidy data set contains 180 observations that correspond to 6 activities performed by 30 subjects, with the average of the measures mean or standard deviation of each feature.
-Tidy data set was written to a CSV file.
+Tidy data set was written to a txt file.

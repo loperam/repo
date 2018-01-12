@@ -69,5 +69,5 @@ names(mydata5) <-Meaningful_colnames
 new_var <- melt(mydata5, id=c("subject","activity"))
 tidy_data <- dcast(new_var, subject+activity ~ variable, mean)
 
-# save tidy data into a csv file
-write.csv(tidy_data, "dataAssign3.csv", row.names=FALSE)
+# save tidy data into a txt file
+write.table(tidy_data, "dataProject.txt", row.names=FALSE)
